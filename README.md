@@ -24,11 +24,9 @@ The Restaurant Review App is a full-stack web application built with Django, des
    
    ![Restaurant Page](restaurantpage.PNG)
 
-2. **Restaurant Pages**: 
-   - Click on a restaurant to view its page, which includes:
-     - Reviews from other users.
-     - Restaurant location displayed via an interactive map.
-     - Menu and additional details.
+2. **Restaurant Creation**: 
+   - Click on a restaurant owner to view its page, which includes:
+     - Creation of restaurant, including location, menu and other details.
    
    ![Restaurant Signup Page](restaurantsignup.PNG)
 
@@ -39,11 +37,11 @@ The Restaurant Review App is a full-stack web application built with Django, des
    ![Send Review Page](sendreviewpage.PNG)
 
 4. **Restaurant Management**: 
-   - Owners can sign in to manage their restaurant page, including updating the restaurant's menu, location, and details.
+   - Owners can sign in to manage their restaurant page, including updating the restaurant's menu, location, details and responding to reviews.
    
    ![Restaurant Management Page](restaurantmanagepage.PNG)
 
-5. **User Profile & Reviews**: 
-   - Each user can manage their profile and view the reviews they've written for restaurants.
+5. **User Reviews**: 
+   - Each user can look at other reviews.
    
    ![User Review Page](userreviewpage.PNG)
