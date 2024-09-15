@@ -1,0 +1,5 @@
+![Restaurant Management Page](images/restaurantmanagepage.png)
+![Restaurant Page](images/restaurantpage.PNG)
+![Restaurant Signup Page](images/restaurantsignup.png)
+![Send Review Page](images/sendreviewpage.png)
+![User Review Page](images/userreviewpage.png)
